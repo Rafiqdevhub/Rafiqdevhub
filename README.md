@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Muhammad Rafiq
 Hi, I'm Muhammad Rafiq! 👋<br><br>I'm a passionate web developer with a strong background in the MERN stack and containerization with Docker. I also have a keen eye for UI/UX design, utilizing tools like Figma and Canva to create intuitive and engaging user experiences.
 
 
