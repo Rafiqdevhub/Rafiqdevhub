@@ -1,5 +1,5 @@
 # Muhammad Rafiq
-Hi, I'm Muhammad Rafiq! 👋<br><br>Hi there!a passionate Developer with a focus on creating innovative and user-friendly applications. With a knack for solving problems, I enjoy designing efficient solutions and bringing ideas to life through code.
+Hi there! 👋 I'm a passionate Developer with a focus on creating innovative and user-friendly applications. With a knack for solving problems, I enjoy designing efficient solutions and bringing ideas to life through code.
 
 
 ## 🌐 Socials:
